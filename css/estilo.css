@@ -8,6 +8,12 @@ h1 {
     color: white;
 }
 
+#cabe{
+    color: white;
+    text-align: center;
+}
+
+
 ul {
     position: relative;
     background-color: darkgoldenrod;
@@ -33,11 +39,47 @@ ul li:hover {
 }
 
 
+
 /* DIV CENTRAL*/
 
 #central {
     background-image: url("../img/crono.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
     min-height: 300px;
     width: 100%;
     float: left;
+}
+
+#pcrono{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    
+}
+
+
+footer {
+    clear: both;
+    background-color: darkgoldenrod;
+    height: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 0px 0px 5px;
+    color: white;
+}
+
+/*QUEM SOMOS*/
+
+.pqq{
+    color: white;
+    text-shadow: black;
+}
+
+.pq{
+    color: white;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    
 }
