@@ -37,4 +37,7 @@ ul li:hover {
 
 #central {
     background-image: url("../img/crono.jpg");
+    min-height: 300px;
+    width: 100%;
+    float: left;
 }
